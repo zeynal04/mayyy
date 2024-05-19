@@ -1,0 +1,27 @@
+zeynal@DESKTOP-FGIHV63 MINGW64 ~ (master)
+$ pwd
+/c/Users/zeynal
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~ (master)
+$ cd desktop
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~/desktop (master)
+$ mkdir Azerbaycan
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~/desktop (master)
+$ cd Azerbaycan
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~/desktop/Azerbaycan (master)
+$ mkdir Baki
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~/desktop/Azerbaycan (master)
+$ mkdir Sumqayit
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~/desktop/Azerbaycan (master)
+$ cd Baki
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~/desktop/Azerbaycan/Baki (master)
+$ touch HamburgIT
+
+zeynal@DESKTOP-FGIHV63 MINGW64 ~/desktop/Azerbaycan/Baki (master)
+$
